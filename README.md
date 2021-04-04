@@ -16,13 +16,10 @@ The purpose of this analysis was to edit the original outcomes of a district ana
   - After ninth grade scores were removed: ![thomas_after.png](Resources/thomas_after.png)
 
 - Relative to Other Schools
-  - Before and after removing the ninth graders' scores, THS's position in the highest performing schools does not change. In both instances, THS is the second-highest performing school in the district.
-
-![school_preformance.png](Resources/school_performance.png)
+  - Before and after removing the ninth graders' scores, THS's position in the highest performing schools does not change. In both instances, THS is the second-highest performing school in the district. ![school_preformance.png](Resources/school_performance.png)
 
 - More Affects
    - When removing THS's ninth grade scores, we see very minimal changes. Scores by school spending, size, and type all stay very similar if not identical. Math and reading scores    by grades are only affected by seeing "NaN" when running the report.
-
 
 ## Summary
 Overall, removing the ninth grade scores of Thomas High School did not affect much of the overall data. There was a slight drop in the school district summary, but not an alarming dip. However, if the scores were left in as "NaN" instead of removed from the dataset entirely, we would have seen a much more drastic change. Because this would have altered the data unfairly, it was a good decision to remove them completely. The school district does not need to be concerned about the changes in the summary after removing THS's ninth grade scores because there was such a minimal change in them.
